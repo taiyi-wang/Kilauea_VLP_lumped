@@ -2,6 +2,7 @@
 Lumped parameter caldera collapse model, wrapper for near-field ground motion prediction, and inversion interface with EMCEE hammer (Foreman-Mackey, 2013)
 
 This repository contains the code used for 
+
 Wang, T., Coppess, K., Segall, P., Dunham, E M., Ellsworth, W., Physics based model reconciles caldera collapse induced static and dynamic ground motion: application to Kilauea volcano in 2018: Geophysical Research Letters (2022).
 
 Katherine Coppess wrote the code for convolving pre-computed Green's functions (using FK; Zhu & Rivera, 2002) with source time functions and implemented analytical Green's functions. Taiyi Wang wrote the code for the dynamic model, interface with Bayesian inversion, and other relevant code.
