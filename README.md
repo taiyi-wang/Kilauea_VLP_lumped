@@ -1,4 +1,4 @@
-# Kilauea_VLP_lumped_param
+# VLP_lumped_param
 Lumped parameter caldera collapse model, wrapper for near-field ground motion prediction, and inversion interface with EMCEE hammer (Foreman-Mackey, 2013)
 
 This repository contains the code used for 
